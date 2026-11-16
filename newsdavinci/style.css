@@ -1,0 +1,30 @@
+/* 뉴스다빈치 소개 페이지 스타일 (xxlcontacts/style.css에서 복사) */
+:root { --text: #1f2330; --muted: #4f5668; --line: #dde1ea; --accent: #2a3a8c; --card: #f6f7fb; --bg: #ffffff; }
+@media (prefers-color-scheme: dark) {
+  :root { --text: #e7e9f0; --muted: #b3b9c9; --line: #343a4a; --accent: #9fb0ff; --card: #1c1f29; --bg: #14161d; }
+}
+* { box-sizing: border-box; }
+body { margin: 0; background: var(--bg); color: var(--text);
+       font: 18px/1.75 -apple-system, "Segoe UI", Roboto, "Noto Sans", "Noto Sans KR", "Noto Sans JP", "Noto Sans SC",
+             "Noto Sans Devanagari", "Noto Sans Arabic", Tahoma, sans-serif; }
+a { color: var(--accent); }
+.lang { max-width: 880px; margin: 0 auto; padding: 10px 16px 0; text-align: end; font-size: .85em; line-height: 2; }
+.lang a, .lang strong { margin-inline-start: 10px; white-space: nowrap; }
+header { max-width: 880px; margin: 0 auto; padding: 24px 16px 8px; display: flex; gap: 20px; align-items: center; }
+header img { width: 96px; height: 96px; border-radius: 22px; flex: none; }
+header h1 { font-size: 1.6em; line-height: 1.3; margin: 0; }
+header p { margin: 6px 0 0; color: var(--muted); }
+main { max-width: 880px; margin: 0 auto; padding: 8px 16px 48px; }
+.play { display: inline-block; margin: 16px 0 8px; padding: 12px 22px; border-radius: 10px;
+        background: #13806f; color: #fff; font-weight: 600; text-decoration: none; }
+.shots { display: flex; gap: 12px; overflow-x: auto; padding: 8px 0 12px; }
+.shots img { width: 200px; height: auto; border-radius: 10px; border: 1px solid var(--line); flex: none; }
+h2 { font-size: 1.25em; margin: 32px 0 8px; color: var(--accent); }
+ul { padding-inline-start: 1.3em; margin: 0; }
+footer { max-width: 880px; margin: 0 auto; color: var(--muted); font-size: .9em; padding: 0 16px 32px; }
+@media (max-width: 520px) {
+  header { gap: 14px; }
+  header img { width: 72px; height: 72px; border-radius: 16px; }
+  header h1 { font-size: 1.3em; }
+  .shots img { width: 160px; }
+}

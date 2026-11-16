@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://gammamansoft.github.io/sitemap.xml

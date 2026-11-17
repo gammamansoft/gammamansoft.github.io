@@ -29,7 +29,7 @@
   </url>
   <url>
     <loc>https://gammamansoft.github.io/oxstudy/ja/</loc>
-    <lastmod>2026-11-16</lastmod>
+    <lastmod>2026-11-17</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://gammamansoft.github.io/oxstudy/"/>
     <xhtml:link rel="alternate" hreflang="ko" href="https://gammamansoft.github.io/oxstudy/ko/"/>
     <xhtml:link rel="alternate" hreflang="ja" href="https://gammamansoft.github.io/oxstudy/ja/"/>
@@ -51,7 +51,7 @@
   </url>
   <url>
     <loc>https://gammamansoft.github.io/oxstudy/es/</loc>
-    <lastmod>2026-11-16</lastmod>
+    <lastmod>2026-11-17</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://gammamansoft.github.io/oxstudy/"/>
     <xhtml:link rel="alternate" hreflang="ko" href="https://gammamansoft.github.io/oxstudy/ko/"/>
     <xhtml:link rel="alternate" hreflang="ja" href="https://gammamansoft.github.io/oxstudy/ja/"/>
@@ -227,6 +227,46 @@
   </url>
   <url>
     <loc>https://gammamansoft.github.io/oxstudy/decks/us-civics/</loc>
+    <lastmod>2026-11-17</lastmod>
+  </url>
+  <url>
+    <loc>https://gammamansoft.github.io/oxstudy/decks/physiology/</loc>
+    <lastmod>2026-11-17</lastmod>
+  </url>
+  <url>
+    <loc>https://gammamansoft.github.io/oxstudy/decks/pathology/</loc>
+    <lastmod>2026-11-17</lastmod>
+  </url>
+  <url>
+    <loc>https://gammamansoft.github.io/oxstudy/decks/pharmacology/</loc>
+    <lastmod>2026-11-17</lastmod>
+  </url>
+  <url>
+    <loc>https://gammamansoft.github.io/oxstudy/decks/general-knowledge/</loc>
+    <lastmod>2026-11-17</lastmod>
+  </url>
+  <url>
+    <loc>https://gammamansoft.github.io/oxstudy/decks/science/</loc>
+    <lastmod>2026-11-17</lastmod>
+  </url>
+  <url>
+    <loc>https://gammamansoft.github.io/oxstudy/decks/eps-topik/</loc>
+    <lastmod>2026-11-17</lastmod>
+  </url>
+  <url>
+    <loc>https://gammamansoft.github.io/oxstudy/ja/decks/takken/</loc>
+    <lastmod>2026-11-17</lastmod>
+  </url>
+  <url>
+    <loc>https://gammamansoft.github.io/oxstudy/ja/decks/driving-license/</loc>
+    <lastmod>2026-11-17</lastmod>
+  </url>
+  <url>
+    <loc>https://gammamansoft.github.io/oxstudy/es/decks/constitucion-espanola/</loc>
+    <lastmod>2026-11-17</lastmod>
+  </url>
+  <url>
+    <loc>https://gammamansoft.github.io/oxstudy/es/decks/historia-america-latina/</loc>
     <lastmod>2026-11-17</lastmod>
   </url>
 </urlset>

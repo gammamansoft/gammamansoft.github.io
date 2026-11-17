@@ -7,7 +7,7 @@
   </url>
   <url>
     <loc>https://gammamansoft.github.io/oxstudy/</loc>
-    <lastmod>2026-11-16</lastmod>
+    <lastmod>2026-11-17</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://gammamansoft.github.io/oxstudy/"/>
     <xhtml:link rel="alternate" hreflang="ko" href="https://gammamansoft.github.io/oxstudy/ko/"/>
     <xhtml:link rel="alternate" hreflang="ja" href="https://gammamansoft.github.io/oxstudy/ja/"/>
@@ -224,5 +224,9 @@
   <url>
     <loc>https://gammamansoft.github.io/newsdavinci/</loc>
     <lastmod>2026-11-16</lastmod>
+  </url>
+  <url>
+    <loc>https://gammamansoft.github.io/oxstudy/decks/us-civics/</loc>
+    <lastmod>2026-11-17</lastmod>
   </url>
 </urlset>

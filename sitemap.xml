@@ -40,7 +40,7 @@
   </url>
   <url>
     <loc>https://gammamansoft.github.io/oxstudy/vi/</loc>
-    <lastmod>2026-11-16</lastmod>
+    <lastmod>2026-11-22</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://gammamansoft.github.io/oxstudy/"/>
     <xhtml:link rel="alternate" hreflang="ko" href="https://gammamansoft.github.io/oxstudy/ko/"/>
     <xhtml:link rel="alternate" hreflang="ja" href="https://gammamansoft.github.io/oxstudy/ja/"/>
@@ -62,7 +62,7 @@
   </url>
   <url>
     <loc>https://gammamansoft.github.io/oxstudy/zh-TW/</loc>
-    <lastmod>2026-11-16</lastmod>
+    <lastmod>2026-11-22</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://gammamansoft.github.io/oxstudy/"/>
     <xhtml:link rel="alternate" hreflang="ko" href="https://gammamansoft.github.io/oxstudy/ko/"/>
     <xhtml:link rel="alternate" hreflang="ja" href="https://gammamansoft.github.io/oxstudy/ja/"/>
@@ -256,6 +256,14 @@
   <url>
     <loc>https://gammamansoft.github.io/oxstudy/ja/decks/takken/</loc>
     <lastmod>2026-11-17</lastmod>
+  </url>
+  <url>
+    <loc>https://gammamansoft.github.io/oxstudy/vi/decks/lich-su-thpt/</loc>
+    <lastmod>2026-11-22</lastmod>
+  </url>
+  <url>
+    <loc>https://gammamansoft.github.io/oxstudy/zh-TW/decks/scooter-license/</loc>
+    <lastmod>2026-11-22</lastmod>
   </url>
   <url>
     <loc>https://gammamansoft.github.io/oxstudy/ja/decks/driving-license/</loc>

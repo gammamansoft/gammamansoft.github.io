@@ -39,3 +39,8 @@ footer { max-width: 880px; margin: 0 auto; color: var(--muted); font-size: .9em;
   header h1 { font-size: 1.35em; }
   .shots img { width: 160px; }
 }
+/* YouTube Shorts 넣기 (세로 9:16, 2026-11-23) */
+.shorts { display: flex; flex-wrap: wrap; gap: 16px; margin: 8px 0 16px; }
+.shorts figure { margin: 0; width: min(100%, 300px); }
+.shorts iframe { width: 100%; aspect-ratio: 9 / 16; border: 0; border-radius: 12px; background: #000; }
+.shorts figcaption { font-size: .9em; margin-top: 4px; color: var(--muted); }
